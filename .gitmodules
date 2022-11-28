@@ -17,3 +17,8 @@
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 15.0
+
+[submodule "Camille0907/mis-builder-contrib"]
+	path = Camille0907/mis-builder-contrib
+	url = git@github.com:Camille0907/mis-builder-contrib.git
+	branch = merge
